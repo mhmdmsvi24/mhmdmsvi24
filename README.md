@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![mhmdmsvi24-github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmsvi24&theme=prussian&hide_border=true)
+![mhmdmsvi24-stats](https://github-readme-stats.vercel.app/api?username=mhmdmsvi24&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![mhmdmsvi24-most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmsvi24&theme=prussian&show_icons=true&hide_border=true&layout=compact)
