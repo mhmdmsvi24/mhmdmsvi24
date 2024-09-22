@@ -1,25 +1,28 @@
-## Hi there 👋
+<div align="center" 
+  style="display: flex; 
+        flex-flow: column nowrap; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 2rem; 
+        background-color: #000;
+        padding-bottom: 2rem;
+        border-radius: 8px;"
+  >
 
-<!--
-**mhmdmsvi24/mhmdmsvi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    <h3>Fun Facts About My Github</h3>
+  </div>
 
-Here are some ideas to get you started:
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdmsvi24&count_private=true&show_icons=true&theme=prussian&hide_border=true&rank_icon=percentile" alt="GitHub Stats" width="500"  title="Reality is an illusion"/>
+  </div>
+  
+  <div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmdMsvi24&theme=prussian&hide_border=true" alt="GitHub Streak" width="500" title="Are We Really Trying?"/>
+  </div>
+  
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdMsvi24&theme=prussian&show_icons=true&hide_border=true&layout=pie&langs_count=5" alt="Top Languages" width="500" title="Why .Net devs are so confident?"/>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![mhmdmsvi24-github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmsvi24&theme=prussian&hide_border=true)
-
-
-![mhmdmsvi24-stats](https://github-readme-stats.vercel.app/api?username=mhmdmsvi24&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
-
-![mhmdmsvi24-most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmsvi24&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+</div>
